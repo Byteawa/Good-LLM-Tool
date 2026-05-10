@@ -1,2 +1,3 @@
 # Good-LLM-Tool
 I want to create a useful local AI deployment tool, but I don’t have time right now. I'll just create a repository for it first.
+This repository currently lacks substantial implementation due to a flawed workflow in the initial phase. For the past month, I relied excessively on AI-generated code without writing accompanying comments or documentation. This led to two failed iterations ("two gears wasted") and a complete reset of the codebase. I have since learned that AI is a tool for acceleration, not a substitute for understanding. The project is now being rebuilt from scratch with strict documentation standards.
